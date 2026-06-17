@@ -79,7 +79,7 @@ Olá, eu sou **Vinicius** 👋
 ---
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&row=1&column=6">
+<img src="https://github-profile-trophy.vercel.app/?username=Vlnlxz&theme=tokyonight&row=1&column=6">
 </p>
 
 
