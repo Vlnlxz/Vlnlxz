@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-<img src="https://i.imgur.com/seu-avatar.png" width="180" style="border-radius:50%">
+<img src="https://avatars.githubusercontent.com/u/198940767?s=400&u=c5d2097f785f7d8187cba0246963fd0a41f695c5&v=4" width="180" style="border-radius:50%">
 </p>
 
 ---
