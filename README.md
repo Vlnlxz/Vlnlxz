@@ -6,9 +6,9 @@
 💻 Criando ideias através da programação
 </h3>
 
-<p align="center">
-<img src="https://avatars.githubusercontent.com/u/198940767?s=400&u=c5d2097f785f7d8187cba0246963fd0a41f695c5&v=4" width="180" style="border-radius:50%">
-</p>
+<div align="center">
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyNWxicW9qNGpueTQ2YzI2eGhqOXZ3c28zbzllY2t6ajRtN3dka2E4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHj8bJm0NKvk5hPoxy/giphy.gif"  />
+</div>
 
 ---
 
